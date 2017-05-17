@@ -1,0 +1,19 @@
+<% var re =  /<img.*?src="(.*?)"/; %>
+<% var url = article.content.match(re)[1] %>
+<%
+if(!article.title.trim())article.title="无题"
+%>
+<div class="card hoverable">
+<div class="card-title center">
+            <%= article.title%></div>
+    <div class="card-image">
+        <img src=<%- url %>>
+
+    </div>
+    <div class="card-content">
+        <p><%= article.content.replace(/<.*?>/g,' ').substr(0,50) %></p>
+    </div>
+    <div class="card-action">
+        <a href=<%= '/articles/blog/'+article.id %>>更多</a>
+    </div>
+</div>

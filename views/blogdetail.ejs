@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<% if(article.title) title = article.title; else title="无题"; %>
+    <% 
+var createdate = new Date(article.create_date);
+var modifydate = new Date(article.modify_date);
+var createdatestr = createdate.toLocaleDateString()+" " +createdate.toLocaleTimeString();
+var modifydatestr = modifydate.toLocaleDateString()+" " +modifydate.toLocaleTimeString();
+%>
+
+        <head>
+            <%- include simplehead %>
+                <title>
+                    <%= article.title %>
+                </title>
+                <script>
+                $(document).ready(function() {
+                    $("#btnsave").click(function() {
+                        $.post("<%= '/articles/comment/add/'+article.id %>", {
+                            comment: $("#comment").val()
+                        }, function(data, status) {
+                            if (status) {
+                                $("#comment").val("");
+                                location.reload();
+                            } else {
+                                alert("失败")
+                            }
+                        })
+                    })
+                });
+   
+                </script>
+        </head>
+
+        <body>
+            <%- include header %>
+                <div class="container " style="margin-top: 30px; margin-bottom: 30px;">
+                    <div class="card hoverable  ">
+                        <div class="card-content black-text">
+                            <div class="card-title">
+                                <%= title %>
+                            </div>
+                            <div>
+                                <p>
+                                    AUTHOR: <a href=<%="/articles/allblogs/user/" +user.id + "/page/1" %>  ><%= user.nickname %></a>
+                                </p>
+                            </div>
+                            <hr/>
+                            <br/>
+                            <div id="article">
+                                <%- article.content %>
+                            </div>
+                        </div>
+                        <div class="card-action">
+                            <p>
+                                CREATE
+                                <%= createdatestr %>
+                            </p>
+                            <p>
+                                MODIFY
+                                <%= modifydatestr %>
+                            </p>
+                            <% if(sessionuser && sessionuser.id == article.userid) {%>
+                                <a href=<%='/articles/editblog/' +article.id %>>修改</a>
+                                <a href="" onclick="deleteblog(<%=article.id %>)">删除</a>
+                                <% } %>
+                        </div>
+                    </div>
+                    <div class="card hoverable">
+                        <div class="card-content black-text">
+                            <div class="card-title">
+                                添加评论
+                            </div>
+                            <div>
+                                <textarea name="" id="comment" cols="30" rows="10" class="materialize-textarea"></textarea>
+                            </div>
+                            <div class=" center">
+                                <button id="btnsave" class="btn waves-effect waves-light" type="submit" name="action">保存</button>
+                            </div>
+                        </div>
+                    </div>
+                    <%  if(comments) {comments.forEach(function(comment){ %>
+                        <div class="card hoverable">
+                            <div class="card-content black-text">
+                                <div>
+                                   <%= comment.nickname %></a> 说:
+                                </div>
+                                <br>
+                                <div>
+                                    <%= comment.comment %>
+                                </div>
+                                <br>
+                                <div>
+                                    发表于
+                                    <%= new Date(comment.createdate).toLocaleDateString()  %>
+                                        <% if(sessionuser.id == comment.userid) {%>
+                                            <a href="" onclick="deletecomment(<%= comment.id %>)">删除</a>
+                                            <% } %>
+                                </div>
+                            </div>
+                        </div>
+                        <% });}%>
+                </div>
+                <%- include footer %>
+        </body>

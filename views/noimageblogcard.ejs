@@ -1,0 +1,16 @@
+
+<%
+if(!article.title.trim())article.title="无题"
+%>
+
+<div class="card hoverable ">
+    <div class="card-content black-text">
+        <span class="card-title">
+            <%= article.title %>
+        </span>
+       <p><%= article.content.replace(/<.*?>/g,' ').substr(0,100) %></p>
+    </div>
+    <div class="card-action">
+        <a href=<%= '/articles/blog/'+article.id %>>更多</a>
+    </div>
+</div>

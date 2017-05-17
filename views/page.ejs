@@ -1,0 +1,24 @@
+
+<div class="card center hoverable" style="padding:10px">
+    <ul class="pagination">
+    <%
+       pageid = page.pageid;
+    totalpage = page.totalpage;
+     pageurl=page.pageurl;
+     count = page.count;
+     singlepagecount= page.singlepagecount;
+       pageid -5 > 0 ? start = pageid -5 : start = 1;
+        pageid + 5 < totalpage ? end = pageid + 5 : end = totalpage;
+        for(var i = start ;i<=end ;i++){
+    %>
+        <% if(pageid == i )
+        { %>
+            <li class="active"><a href="<%= pageurl + i %>" ><%= i %></a></li>
+        <% } else {%>
+            <li class="waves-effect"><a href="<%= pageurl + i %>" ><%= i %></a></li>
+        <% }
+        } %>
+        <p><%="共"+totalpage+"页,共"+count+"条记录,每页"+singlepagecount+"条" %></p>
+    
+    </ul>
+</div>

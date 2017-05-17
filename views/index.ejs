@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<% var num=articles.length;left=Math.ceil(num/2);right=num-left; %>
+    <%- include head %>
+        <% var re =  /<img.*?src="(.*?)"/; %>
+
+            <body>
+                <%- include header %>
+                    <div class="container" style="padding-top: 20px; padding-bottom: 20px;">
+                        <div class="row">
+                            <div class="col l6 s12">
+                                <%
+			for(var i=0;i < left;i++) 
+			{article=articles[i]; 
+		      %>
+                                    <%
+			if(article.content.match(re)!=null) {
+			%>
+                                          <%- include hasimageblogcard %>
+                                    <% } else{ %>
+                                            <%- include noimageblogcard %>
+                                    <% } }%>
+                            </div>
+                            <div class="col l6 s12  ">
+                                <% for(var i=left;i < num;i++) {
+				article=articles[i]; %>
+                                    <%
+			if(article.content.match(re)!=null) {
+			%>
+                                        <%- include hasimageblogcard %>
+                                    <% } else{ %>
+                                        <%- include noimageblogcard %>
+                                    <% } }%>
+                            </div>
+                        </div>
+                    </div>
+                    <%- include footer %>
+            </body>
