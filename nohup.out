@@ -1,0 +1,1018 @@
+
+> myblog@0.0.0 start /home/duzhekai/Myblog
+> node ./bin/www
+
+[0mGET / [36m302 [0m18.062 ms - 56[0m
+[0mGET /index [36m304 [0m31.645 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m6.410 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.092 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.857 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.075 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m2.024 ms - -[0m
+[0mGET /login [32m200 [0m4.714 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m3.201 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.451 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.200 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.977 ms - -[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m13.500 ms - 4741[0m
+[0mGET /css/materialize.css [36m304 [0m1.271 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.318 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.495 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.292 ms - -[0m
+[]
+[0mGET /articles/blog/53 [32m200 [0m15.982 ms - 5411[0m
+[0mGET /js/jquery.js [36m304 [0m4.703 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.623 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.156 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.918 ms - -[0m
+[0mGET /index [36m304 [0m13.719 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.733 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.160 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m4.700 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.482 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.893 ms - -[0m
+[0mGET / [36m302 [0m1.251 ms - 56[0m
+[0mGET /index [36m304 [0m4.967 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.546 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.665 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.993 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.529 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.917 ms - -[0m
+[0mGET / [36m302 [0m2.134 ms - 28[0m
+[0mGET /index [32m200 [0m5.804 ms - 5113[0m
+[0mGET /index [32m200 [0m12.628 ms - 5113[0m
+[0mGET /js/blog.js [32m200 [0m3.301 ms - 577[0m
+[0mGET /js/jquery.js [32m200 [0m1.673 ms - 84345[0m
+[0mGET /css/materialize.css [32m200 [0m4.024 ms - 149254[0m
+[0mGET /js/materialize.js [32m200 [0m3.436 ms - 281553[0m
+[0mGET /images/ueditor/864380907719626752.jpg [32m200 [0m1.291 ms - 25828[0m
+[0mGET /favicon.ico [33m404 [0m4.203 ms - 837[0m
+[0mGET / [36m302 [0m2.813 ms - 56[0m
+[0mGET /index [36m304 [0m8.479 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.346 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.094 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.581 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.564 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.772 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m2.777 ms - 837[0m
+[0mGET / [36m302 [0m2.120 ms - 56[0m
+[0mGET /index [32m200 [0m8.916 ms - 5113[0m
+[0mGET /css/materialize.css [32m200 [0m11.112 ms - 149254[0m
+[0mGET /js/jquery.js [32m200 [0m18.956 ms - 84345[0m
+[0mGET /js/blog.js [32m200 [0m18.553 ms - 577[0m
+[0mGET /images/ueditor/864380907719626752.jpg [32m200 [0m13.425 ms - 25828[0m
+[0mGET /js/materialize.js [32m200 [0m19.523 ms - 281553[0m
+[0mGET /favicon.ico [33m404 [0m2.452 ms - 837[0m
+[0mGET / [36m302 [0m3.195 ms - 56[0m
+[0mGET /index [36m304 [0m7.822 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.473 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.674 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m4.466 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.490 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m3.363 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m3.139 ms - 837[0m
+[0mGET / [36m302 [0m1.106 ms - 56[0m
+[0mGET /index [36m304 [0m12.078 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.185 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m5.315 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.705 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.465 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.940 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m3.879 ms - 837[0m
+[]
+[0mGET /articles/blog/52 [32m200 [0m6.555 ms - 16959[0m
+[0mGET /css/materialize.css [36m304 [0m2.952 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.670 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.435 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.873 ms - -[0m
+[0mGET / [36m302 [0m0.885 ms - 56[0m
+[0mGET /index [36m304 [0m7.351 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m4.360 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m4.194 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.401 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.103 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.840 ms - -[0m
+Terminated
+
+npm ERR! Linux 4.4.0-63-generic
+npm ERR! argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+npm ERR! node v6.9.5
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! myblog@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the myblog@0.0.0 start script 'node ./bin/www'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the myblog package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs myblog
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls myblog
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/duzhekai/Myblog/npm-debug.log
+
+> myblog@0.0.0 start /home/duzhekai/Myblog
+> node ./bin/www
+
+[0mGET /index [36m304 [0m44.162 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m8.283 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m7.291 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m7.014 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m5.647 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.673 ms - -[0m
+[ { id: 24,
+    articleid: 51,
+    userid: 1,
+    comment: '好！',
+    createdate: 1494987414923,
+    nickname: '杜哲凯' } ]
+[0mGET /articles/blog/51 [32m200 [0m22.906 ms - 32236[0m
+[0mGET /js/materialize.js [36m304 [0m5.426 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m5.169 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m4.460 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.145 ms - -[0m
+[0mPOST /articles/comment/add/51 [32m200 [0m41.993 ms - 7[0m
+[ { id: 25,
+    articleid: 51,
+    userid: null,
+    comment: 'Good！',
+    createdate: 1494999932266,
+    nickname: null },
+  { id: 24,
+    articleid: 51,
+    userid: 1,
+    comment: '好！',
+    createdate: 1494987414923,
+    nickname: '杜哲凯' } ]
+[0mGET /articles/blog/51 [32m200 [0m11.231 ms - 33122[0m
+[0mGET /js/jquery.js [36m304 [0m1.590 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.614 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.371 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.678 ms - -[0m
+[0mGET / [36m302 [0m5.566 ms - 56[0m
+[0mGET /index [36m304 [0m12.243 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m6.271 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m5.226 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m5.725 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m5.492 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.071 ms - -[0m
+[0mGET /login [36m304 [0m3.966 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m7.512 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m5.445 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.195 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.287 ms - -[0m
+[0mGET /login [36m304 [0m4.240 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m4.196 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m5.031 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m4.290 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.964 ms - -[0m
+[0mGET /register [32m200 [0m2.982 ms - 5444[0m
+[0mGET /css/materialize.css [36m304 [0m2.871 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.793 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.567 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.349 ms - -[0m
+[0mPOST /register [32m200 [0m20.258 ms - 7[0m
+[0mGET /login [36m304 [0m10.152 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.490 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m6.493 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m6.135 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m5.946 ms - -[0m
+[0mPOST /login [32m200 [0m32.770 ms - 7[0m
+[0mGET /index [32m200 [0m8.638 ms - 5451[0m
+[0mGET /js/materialize.js [36m304 [0m4.882 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m4.696 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m4.464 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.224 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m2.054 ms - -[0m
+[0mGET /articles/allblogs/user/5/page/1 [32m200 [0m7.032 ms - 2850[0m
+[0mGET /css/materialize.css [36m304 [0m2.096 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.300 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.088 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.950 ms - -[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m8.882 ms - 5079[0m
+[0mGET /css/materialize.css [36m304 [0m4.055 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m4.091 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.854 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.490 ms - -[0m
+[0mGET /articles/newblog [32m200 [0m4.855 ms - 4222[0m
+[0mGET /css/materialize.css [36m304 [0m6.298 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m5.962 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m5.222 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.218 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m4.167 ms - 837[0m
+[0mGET /ueditor/ueditor.config.js [32m200 [0m6.873 ms - 12453[0m
+[0mGET /ueditor/ueditor.all.min.js [32m200 [0m4.611 ms - 314070[0m
+[0mGET /ueditor/themes/default/css/ueditor.css [32m200 [0m1.322 ms - 43760[0m
+[0mGET /ueditor/lang/zh-cn/zh-cn.js [32m200 [0m1.086 ms - 29351[0m
+[0mGET /ueditor/ue?action=config&&noCache=1495001015458 [36m302 [0m2.805 ms - 49[0m
+[0mGET /ueditor/nodejs/config.json [32m200 [0m5.178 ms - 6175[0m
+[0mGET /ueditor/themes/default/images/icons.png [32m200 [0m5.016 ms - 19694[0m
+[0mGET /ueditor/themes/default/images/scale.png [32m200 [0m2.984 ms - 167[0m
+[0mGET /ueditor/themes/iframe.css [32m200 [0m1.098 ms - 41[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.css [32m200 [0m0.967 ms - 2888[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.js [32m200 [0m1.245 ms - 158605[0m
+[0mGET /index [36m304 [0m35.168 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.164 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.762 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.604 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.400 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.000 ms - -[0m
+[0mGET /index [36m304 [0m9.706 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.410 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.670 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.416 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.290 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.850 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m3.994 ms - 837[0m
+[]
+[0mGET /articles/blog/53 [32m200 [0m16.234 ms - 5410[0m
+[0mGET /css/materialize.css [36m304 [0m0.872 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.528 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.591 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.588 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.630 ms - 837[0m
+[0mGET /login [32m200 [0m3.246 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m2.666 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.743 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.502 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.525 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m2.294 ms - 837[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m7.673 ms - 4741[0m
+[0mGET /css/materialize.css [36m304 [0m4.075 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.720 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.491 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.057 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.621 ms - 837[0m
+[0mGET /favicon.ico [33m404 [0m2.102 ms - 837[0m
+[0mGET / [36m302 [0m4.027 ms - 56[0m
+[0mGET /index [32m200 [0m6.763 ms - 5113[0m
+[0mGET /js/blog.js [32m200 [0m9.828 ms - 577[0m
+[0mGET /images/ueditor/864380907719626752.jpg [32m200 [0m12.233 ms - 25828[0m
+[0mGET /js/jquery.js [32m200 [0m9.684 ms - 84345[0m
+[0mGET /css/materialize.css [32m200 [0m7.841 ms - 149254[0m
+[0mGET /js/materialize.js [32m200 [0m9.922 ms - 281553[0m
+[0mGET /favicon.ico [33m404 [0m2.516 ms - 837[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m7.680 ms - 4741[0m
+[0mGET /css/materialize.css [36m304 [0m3.774 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.806 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.483 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.565 ms - -[0m
+[0mGET /login [32m200 [0m4.801 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m3.785 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.727 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.533 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.677 ms - -[0m
+[0mGET /index [36m304 [0m9.157 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.223 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m15.336 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m17.761 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m5.258 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m10.363 ms - -[0m
+[0mGET /index [36m304 [0m9.489 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.156 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.349 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.078 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.163 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m3.314 ms - -[0m
+[0mGET /articles/allblogs/page/1 [36m304 [0m4.811 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.879 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.556 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.478 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.444 ms - -[0m
+[0mGET /index [36m304 [0m6.018 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.537 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.537 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m4.835 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.873 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m4.924 ms - -[0m
+[ { id: 23,
+    articleid: 50,
+    userid: null,
+    comment: '好',
+    createdate: 1494987128322,
+    nickname: null } ]
+[0mGET /articles/blog/50 [32m200 [0m9.276 ms - 7024[0m
+[0mGET /css/materialize.css [36m304 [0m2.773 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.669 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m9.004 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m9.020 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m9.081 ms - -[0m
+[0mPOST /articles/comment/add/50 [32m200 [0m22.011 ms - 7[0m
+[ { id: 26,
+    articleid: 50,
+    userid: null,
+    comment: '嘿嘿',
+    createdate: 1495001916779,
+    nickname: null },
+  { id: 23,
+    articleid: 50,
+    userid: null,
+    comment: '好',
+    createdate: 1494987128322,
+    nickname: null } ]
+[0mGET /articles/blog/50 [32m200 [0m4.787 ms - 7909[0m
+[0mGET /css/materialize.css [36m304 [0m3.196 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.182 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.955 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.017 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m4.067 ms - -[0m
+[ { id: 26,
+    articleid: 50,
+    userid: null,
+    comment: '嘿嘿',
+    createdate: 1495001916779,
+    nickname: null } ]
+[0mGET /articles/blog/50 [32m200 [0m16.531 ms - 7027[0m
+[0mPOST /articles/comment/delete/23 [0m- [0m- ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.011 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.331 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.317 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.348 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m3.343 ms - -[0m
+[0mGET /articles/allblogs/page/1 [36m304 [0m10.181 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m5.266 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.575 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.165 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.198 ms - -[0m
+[]
+[0mGET /articles/blog/53 [32m200 [0m4.233 ms - 5410[0m
+[0mGET /css/materialize.css [36m304 [0m1.476 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.515 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.857 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.925 ms - -[0m
+[ { id: 26,
+    articleid: 50,
+    userid: null,
+    comment: '嘿嘿',
+    createdate: 1495001916779,
+    nickname: null } ]
+[0mGET /articles/blog/50 [36m304 [0m4.522 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.506 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.653 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m4.464 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.576 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m4.628 ms - -[0m
+[0mGET /login [36m304 [0m4.832 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.732 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.770 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m4.138 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.466 ms - -[0m
+[0mGET /register [32m200 [0m2.926 ms - 5444[0m
+[0mGET /css/materialize.css [36m304 [0m3.639 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.583 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.910 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.936 ms - -[0m
+[0mGET /index [36m304 [0m7.256 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.316 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.011 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.620 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.487 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.860 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.849 ms - 837[0m
+[0mGET / [36m302 [0m5.393 ms - 56[0m
+[0mGET /index [32m200 [0m5.685 ms - 5113[0m
+[0mGET /js/jquery.js [36m304 [0m0.699 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.137 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.870 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.616 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.731 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m2.158 ms - 837[0m
+[]
+[0mGET /articles/blog/53 [32m200 [0m5.176 ms - 5410[0m
+[0mGET /css/materialize.css [36m304 [0m2.002 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.458 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.804 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.716 ms - -[0m
+[]
+[0mGET /articles/blog/52 [32m200 [0m5.503 ms - 16958[0m
+[0mGET /css/materialize.css [36m304 [0m0.820 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.414 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.381 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.160 ms - -[0m
+[ { id: 25,
+    articleid: 51,
+    userid: null,
+    comment: 'Good！',
+    createdate: 1494999932266,
+    nickname: null },
+  { id: 24,
+    articleid: 51,
+    userid: 1,
+    comment: '好！',
+    createdate: 1494987414923,
+    nickname: '杜哲凯' } ]
+[0mGET /articles/blog/51 [36m304 [0m5.415 ms - -[0m
+[ { id: 25,
+    articleid: 51,
+    userid: null,
+    comment: 'Good！',
+    createdate: 1494999932266,
+    nickname: null },
+  { id: 24,
+    articleid: 51,
+    userid: 1,
+    comment: '好！',
+    createdate: 1494987414923,
+    nickname: '杜哲凯' } ]
+[0mGET /articles/blog/51 [36m304 [0m7.899 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.296 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.963 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.842 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.647 ms - -[0m
+[0mGET /login [32m200 [0m2.128 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m2.244 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.427 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.431 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.652 ms - -[0m
+[0mPOST /login [32m200 [0m2.607 ms - 6[0m
+[0mPOST /login [32m200 [0m5.790 ms - 7[0m
+[0mGET /index [32m200 [0m6.057 ms - 5451[0m
+[0mGET /js/jquery.js [36m304 [0m4.470 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.431 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.157 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.941 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.991 ms - -[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m4.625 ms - 5079[0m
+[0mGET /js/blog.js [36m304 [0m2.036 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.158 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.899 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.697 ms - -[0m
+[0mGET /articles/allblogs/user/1/page/1 [32m200 [0m4.701 ms - 5086[0m
+[0mGET /js/jquery.js [36m304 [0m4.370 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m4.033 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.822 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.611 ms - -[0m
+[0mGET /articles/allblogs/user/1/page/1 [36m304 [0m7.067 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.475 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.189 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.980 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.775 ms - -[0m
+[0mGET /articles/newblog [32m200 [0m4.360 ms - 4222[0m
+[0mGET /css/materialize.css [36m304 [0m2.001 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.097 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.856 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.872 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m2.373 ms - 837[0m
+[0mGET /ueditor/ueditor.all.min.js [36m304 [0m1.604 ms - -[0m
+[0mGET /ueditor/ueditor.config.js [36m304 [0m0.542 ms - -[0m
+[0mGET /ueditor/lang/zh-cn/zh-cn.js [36m304 [0m1.179 ms - -[0m
+[0mGET /ueditor/themes/default/css/ueditor.css [36m304 [0m1.002 ms - -[0m
+[0mGET /ueditor/ue?action=config&&noCache=1495006917318 [36m302 [0m0.660 ms - 49[0m
+[0mGET /ueditor/nodejs/config.json [36m304 [0m0.766 ms - -[0m
+[0mGET /ueditor/themes/default/images/icons.png [36m304 [0m1.388 ms - -[0m
+[0mGET /ueditor/themes/default/images/scale.png [36m304 [0m0.992 ms - -[0m
+[0mGET /ueditor/themes/iframe.css [36m304 [0m4.374 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.js [36m304 [0m2.277 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.css [36m304 [0m1.019 ms - -[0m
+[0mGET /ueditor/themes/default/images/wordpaste.png [32m200 [0m1.165 ms - 6467[0m
+[0mPOST /articles/addblog [32m200 [0m162.377 ms - 7[0m
+[0mGET /index [32m200 [0m6.835 ms - 6044[0m
+[0mGET /css/materialize.css [36m304 [0m0.968 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.917 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.993 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.854 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.930 ms - -[0m
+[]
+[0mGET /articles/blog/54 [32m200 [0m6.182 ms - 33107[0m
+[0mGET /css/materialize.css [36m304 [0m0.704 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.972 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.829 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.530 ms - -[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m5.954 ms - 5607[0m
+[0mGET /js/jquery.js [36m304 [0m6.207 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m6.176 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m5.953 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.540 ms - -[0m
+[0mGET /articles/allblogs/user/1/page/1 [32m200 [0m5.777 ms - 5614[0m
+[0mGET /css/materialize.css [36m304 [0m2.307 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.208 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.002 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.780 ms - -[0m
+[0mGET /index [36m304 [0m6.059 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.182 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.179 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.986 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.791 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.910 ms - -[0m
+[0mGET /articles/allblogs/page/1 [36m304 [0m5.882 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.718 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.333 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.152 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.795 ms - -[0m
+[0mGET /articles/allblogs/user/1/page/1 [36m304 [0m6.522 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.338 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.000 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.508 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.614 ms - -[0m
+[0mGET /articles/allblogs/page/1 [36m304 [0m5.643 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.271 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.179 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.970 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.772 ms - -[0m
+[0mGET /articles/allblogs/user/1/page/1 [36m304 [0m7.733 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.667 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.089 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.865 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.669 ms - -[0m
+[0mGET /articles/newblog [36m304 [0m2.088 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.445 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.149 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m3.044 ms - 837[0m
+[0mGET /js/materialize.js [36m304 [0m3.535 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.340 ms - -[0m
+[0mGET /ueditor/ueditor.all.min.js [36m304 [0m1.446 ms - -[0m
+[0mGET /ueditor/ueditor.config.js [36m304 [0m1.172 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m1.575 ms - 837[0m
+[0mGET /ueditor/lang/zh-cn/zh-cn.js [36m304 [0m1.586 ms - -[0m
+[0mGET /ueditor/themes/default/css/ueditor.css [36m304 [0m1.224 ms - -[0m
+[0mGET /ueditor/ue?action=config&&noCache=1495007576042 [36m302 [0m0.615 ms - 49[0m
+[0mGET /ueditor/nodejs/config.json [36m304 [0m0.964 ms - -[0m
+[0mGET /ueditor/themes/default/images/icons.png [36m304 [0m3.772 ms - -[0m
+[0mGET /ueditor/themes/default/images/scale.png [36m304 [0m0.673 ms - -[0m
+[0mGET /ueditor/themes/iframe.css [36m304 [0m0.923 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.js [36m304 [0m1.587 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.css [36m304 [0m1.190 ms - -[0m
+[0mGET / [36m302 [0m7.448 ms - 56[0m
+[0mGET /index [32m200 [0m6.382 ms - 5706[0m
+[0mGET /css/materialize.css [36m304 [0m0.994 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.480 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.466 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.529 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.672 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m2.729 ms - 837[0m
+[0mGET / [36m302 [0m25.177 ms - 56[0m
+[0mGET /index [36m304 [0m8.726 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.316 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.700 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.587 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.184 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.593 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m2.713 ms - 837[0m
+[0mGET / [36m302 [0m1.560 ms - 56[0m
+[0mGET /index [32m200 [0m7.900 ms - 5706[0m
+[0mGET /js/blog.js [32m200 [0m7.943 ms - 577[0m
+[0mGET /css/materialize.css [32m200 [0m4.584 ms - 149254[0m
+[0mGET /js/jquery.js [32m200 [0m7.981 ms - 84345[0m
+[0mGET /js/materialize.js [32m200 [0m7.938 ms - 281553[0m
+[0mGET /images/ueditor/864380907719626752.jpg [32m200 [0m0.994 ms - 25828[0m
+[0mGET /favicon.ico [33m404 [0m1.973 ms - 837[0m
+[]
+[0mGET /articles/blog/54 [32m200 [0m15.620 ms - 32584[0m
+[0mGET /css/materialize.css [36m304 [0m3.901 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.916 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.142 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.170 ms - -[0m
+[0mGET / [36m302 [0m1.195 ms - 56[0m
+[0mGET / [36m302 [0m0.862 ms - 56[0m
+[0mGET /index [36m304 [0m7.906 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.212 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.928 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.233 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.381 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.709 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.628 ms - 837[0m
+[]
+[0mGET /articles/blog/54 [32m200 [0m10.525 ms - 32584[0m
+[0mGET /css/materialize.css [36m304 [0m2.400 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.215 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.985 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.782 ms - -[0m
+[0mGET / [36m302 [0m0.926 ms - 56[0m
+[0mGET /index [36m304 [0m7.361 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.875 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.541 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.314 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.096 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.867 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m2.127 ms - 837[0m
+[0mGET /favicon.ico [33m404 [0m2.838 ms - 837[0m
+[0mGET / [36m302 [0m2.392 ms - 56[0m
+[0mGET / [36m302 [0m1.002 ms - 56[0m
+[0mGET /index [36m304 [0m8.777 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.370 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.092 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.638 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.607 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.949 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.549 ms - 837[0m
+[0mGET /login [32m200 [0m2.978 ms - 4349[0m
+[0mGET /js/jquery.js [36m304 [0m2.252 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.901 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.802 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.612 ms - -[0m
+[0mPOST /login [32m200 [0m3.808 ms - 7[0m
+[0mGET /index [32m200 [0m10.030 ms - 6044[0m
+[0mGET /css/materialize.css [36m304 [0m2.297 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.262 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.046 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.810 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.975 ms - -[0m
+[0mGET /articles/newblog [36m304 [0m4.442 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.218 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.951 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.491 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.288 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m2.538 ms - 837[0m
+[0mGET /ueditor/ueditor.config.js [36m304 [0m2.571 ms - -[0m
+[0mGET /ueditor/ueditor.all.min.js [36m304 [0m0.574 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m1.091 ms - 837[0m
+[0mGET /ueditor/themes/default/css/ueditor.css [36m304 [0m1.325 ms - -[0m
+[0mGET /ueditor/lang/zh-cn/zh-cn.js [36m304 [0m1.916 ms - -[0m
+[0mGET /ueditor/ue?action=config&&noCache=1495163703284 [36m302 [0m0.710 ms - 49[0m
+[0mGET /ueditor/nodejs/config.json [36m304 [0m0.843 ms - -[0m
+[0mGET /ueditor/themes/default/images/icons.png [36m304 [0m0.902 ms - -[0m
+[0mGET /ueditor/themes/default/images/scale.png [36m304 [0m0.786 ms - -[0m
+[0mGET /ueditor/themes/iframe.css [36m304 [0m0.968 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.js [36m304 [0m1.403 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.css [36m304 [0m1.090 ms - -[0m
+[0mGET /ueditor/themes/default/images/wordpaste.png [36m304 [0m0.952 ms - -[0m
+[0mPOST /articles/addblog [33m413 [0m214.655 ms - 986[0m
+[0mPOST /articles/addblog [33m413 [0m172.949 ms - 986[0m
+[0mGET / [36m302 [0m1.297 ms - 56[0m
+[0mGET /index [36m304 [0m8.893 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.945 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.724 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.597 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.398 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.205 ms - -[0m
+[ { id: 25,
+    articleid: 51,
+    userid: null,
+    comment: 'Good！',
+    createdate: 1494999932266,
+    nickname: null },
+  { id: 24,
+    articleid: 51,
+    userid: 1,
+    comment: '好！',
+    createdate: 1494987414923,
+    nickname: '杜哲凯' } ]
+[0mGET /articles/blog/51 [32m200 [0m7.299 ms - 33645[0m
+[0mGET /css/materialize.css [36m304 [0m2.413 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.126 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.991 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.762 ms - -[0m
+[0mGET /articles/newblog [36m304 [0m3.857 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.591 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.143 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.347 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.140 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m1.673 ms - 837[0m
+[0mGET /ueditor/ueditor.config.js [36m304 [0m1.028 ms - -[0m
+[0mGET /ueditor/ueditor.all.min.js [36m304 [0m0.545 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m1.562 ms - 837[0m
+[0mGET /ueditor/themes/default/css/ueditor.css [36m304 [0m1.455 ms - -[0m
+[0mGET /ueditor/lang/zh-cn/zh-cn.js [36m304 [0m1.045 ms - -[0m
+[0mGET /ueditor/ue?action=config&&noCache=1495164122252 [36m302 [0m0.818 ms - 49[0m
+[0mGET /ueditor/themes/default/images/icons.png [36m304 [0m0.891 ms - -[0m
+[0mGET /ueditor/themes/default/images/scale.png [36m304 [0m1.815 ms - -[0m
+[0mGET /ueditor/themes/iframe.css [36m304 [0m0.851 ms - -[0m
+[0mGET /ueditor/nodejs/config.json [36m304 [0m0.571 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.js [36m304 [0m1.017 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.css [36m304 [0m0.888 ms - -[0m
+[0mGET /ueditor/themes/default/images/wordpaste.png [36m304 [0m0.911 ms - -[0m
+[0mPOST /articles/addblog [32m200 [0m113.489 ms - 7[0m
+[0mGET /index [32m200 [0m7.321 ms - 6585[0m
+[0mGET /css/materialize.css [36m304 [0m0.937 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.124 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.915 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.527 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.518 ms - -[0m
+[ { id: 25,
+    articleid: 51,
+    userid: null,
+    comment: 'Good！',
+    createdate: 1494999932266,
+    nickname: null },
+  { id: 24,
+    articleid: 51,
+    userid: 1,
+    comment: '好！',
+    createdate: 1494987414923,
+    nickname: '杜哲凯' } ]
+[0mGET /articles/blog/51 [36m304 [0m6.481 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m6.586 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.193 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.978 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.758 ms - -[0m
+[0mGET /articles/blog/51 [31m500 [0m40.133 ms - 156[0m
+[0mPOST /articles/deleteblog/51 [0m- [0m- ms - -[0m
+[0mGET /index [32m200 [0m9.154 ms - 6044[0m
+[0mGET /css/materialize.css [36m304 [0m6.049 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m9.556 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m5.680 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m5.447 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.924 ms - -[0m
+[0mGET / [36m302 [0m0.797 ms - 56[0m
+[0mGET /index [32m200 [0m5.516 ms - 5706[0m
+[0mGET /css/materialize.css [32m200 [0m15.054 ms - 149254[0m
+[0mGET /js/blog.js [32m200 [0m11.727 ms - 577[0m
+[0mGET /images/ueditor/864380907719626752.jpg [32m200 [0m11.669 ms - 25828[0m
+[0mGET /js/jquery.js [32m200 [0m15.744 ms - 84345[0m
+[0mGET /js/materialize.js [32m200 [0m15.614 ms - 281553[0m
+[0mGET /favicon.ico [33m404 [0m5.007 ms - 837[0m
+[0mGET /index [36m304 [0m5.128 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.553 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m4.137 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.766 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.360 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m2.414 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [32m200 [0m1.312 ms - 25828[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m7.822 ms - 5269[0m
+[0mGET /css/materialize.css [36m304 [0m2.148 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.497 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.221 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m5.488 ms - -[0m
+[]
+[0mGET /articles/blog/55 [32m200 [0m4.883 ms - 31039[0m
+[0mGET /css/materialize.css [36m304 [0m3.263 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.326 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.045 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.138 ms - -[0m
+[0mGET /login [32m200 [0m2.914 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m2.603 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.901 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.345 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.427 ms - -[0m
+[0mPOST /login [32m200 [0m2.775 ms - 6[0m
+[0mGET /articles/allblogs/page/1 [36m304 [0m7.181 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.330 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.184 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.988 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.064 ms - -[0m
+[0mGET /index [36m304 [0m6.412 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m4.584 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m4.210 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.852 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.044 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m3.241 ms - -[0m
+[]
+[0mGET /articles/blog/55 [36m304 [0m6.187 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.859 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.271 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.626 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.818 ms - -[0m
+[0mPOST /articles/comment/add/55 [32m200 [0m18.539 ms - 7[0m
+[ { id: 27,
+    articleid: 55,
+    userid: null,
+    comment: 'Old Brother,Steadily!',
+    createdate: 1495177157118,
+    nickname: null } ]
+[0mGET /articles/blog/55 [32m200 [0m5.476 ms - 31939[0m
+[0mGET /css/materialize.css [36m304 [0m2.818 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.554 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.545 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.577 ms - -[0m
+[0mGET /login [32m200 [0m2.142 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m2.689 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.557 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.020 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.079 ms - -[0m
+[0mGET /register [32m200 [0m3.902 ms - 5444[0m
+[0mGET /css/materialize.css [36m304 [0m1.608 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.450 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.718 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.684 ms - -[0m
+[0mPOST /register [32m200 [0m17.801 ms - 7[0m
+[0mGET /login [36m304 [0m2.182 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.620 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.582 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.112 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.155 ms - -[0m
+[0mPOST /login [32m200 [0m2.578 ms - 6[0m
+[0mPOST /login [32m200 [0m1.489 ms - 6[0m
+[0mPOST /login [32m200 [0m1.489 ms - 6[0m
+[0mPOST /login [32m200 [0m1.500 ms - 6[0m
+[0mPOST /login [32m200 [0m1.498 ms - 6[0m
+[0mGET / [36m302 [0m0.836 ms - 56[0m
+[0mGET /index [32m200 [0m6.673 ms - 5706[0m
+[0mGET /js/materialize.js [36m304 [0m1.105 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.864 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.992 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.801 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.776 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.980 ms - 837[0m
+[0mGET /login [32m200 [0m2.277 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m1.889 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m5.482 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m5.251 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.983 ms - -[0m
+[0mGET /register [32m200 [0m2.822 ms - 5444[0m
+[0mGET /css/materialize.css [36m304 [0m0.868 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.887 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.109 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.643 ms - -[0m
+[0mGET /index [36m304 [0m11.924 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.790 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.314 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.042 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.388 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.864 ms - -[0m
+[0mGET /login [32m200 [0m2.098 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m2.269 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.363 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m3.147 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m3.219 ms - -[0m
+[0mPOST /login [32m200 [0m3.928 ms - 7[0m
+[0mGET /index [32m200 [0m5.112 ms - 6044[0m
+[0mGET /css/materialize.css [36m304 [0m5.326 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m5.378 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m5.148 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m5.230 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m3.239 ms - -[0m
+[ { id: 27,
+    articleid: 55,
+    userid: null,
+    comment: 'Old Brother,Steadily!',
+    createdate: 1495177157118,
+    nickname: null } ]
+[0mGET /articles/blog/55 [32m200 [0m8.500 ms - 32323[0m
+[0mGET /css/materialize.css [36m304 [0m0.882 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.069 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.705 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.538 ms - -[0m
+[0mGET /articles/allblogs/user/1/page/1 [32m200 [0m5.264 ms - 5614[0m
+[0mGET /css/materialize.css [36m304 [0m1.613 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.221 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.533 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.577 ms - -[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m5.492 ms - 5607[0m
+[0mGET /css/materialize.css [36m304 [0m0.749 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.907 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.664 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.904 ms - -[0m
+[0mGET /articles/newblog [32m200 [0m3.144 ms - 4222[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m4.578 ms - 837[0m
+[0mGET /css/materialize.css [36m304 [0m6.010 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.563 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.713 ms - -[0m
+[0mGET /ueditor/ueditor.config.js [32m200 [0m4.653 ms - 12453[0m
+[0mGET /js/blog.js [36m304 [0m10.892 ms - -[0m
+[0mGET /ueditor/ueditor.all.min.js [32m200 [0m6.048 ms - 314070[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m1.613 ms - 837[0m
+[0mGET /ueditor/lang/zh-cn/zh-cn.js [32m200 [0m1.418 ms - 29351[0m
+[0mGET /ueditor/themes/default/css/ueditor.css [32m200 [0m1.813 ms - 43760[0m
+[0mGET /ueditor/ue?action=config&&noCache=1495177400721 [36m302 [0m0.730 ms - 49[0m
+[0mGET /ueditor/nodejs/config.json [32m200 [0m0.932 ms - 6175[0m
+[0mGET /ueditor/themes/default/images/icons.png [32m200 [0m0.892 ms - 19694[0m
+[0mGET /ueditor/themes/default/images/scale.png [32m200 [0m2.055 ms - 167[0m
+[0mGET /ueditor/themes/iframe.css [32m200 [0m1.581 ms - 41[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.css [32m200 [0m1.879 ms - 2888[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.js [32m200 [0m2.411 ms - 158605[0m
+[0mGET /index [36m304 [0m7.352 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.029 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.105 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.690 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.572 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m2.638 ms - -[0m
+[0mGET /logoff [36m302 [0m1.310 ms - 56[0m
+[0mGET /index [32m200 [0m12.315 ms - 5706[0m
+[0mGET /css/materialize.css [36m304 [0m1.893 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.580 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.945 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.996 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m2.096 ms - -[0m
+[0mGET /login [32m200 [0m2.393 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m2.187 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.172 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.020 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.090 ms - -[0m
+[0mPOST /login [32m200 [0m2.993 ms - 6[0m
+[0mPOST /login [32m200 [0m1.630 ms - 6[0m
+[0mPOST /login [32m200 [0m20.045 ms - 6[0m
+[0mPOST /login [32m200 [0m12.167 ms - 6[0m
+[0mGET /index [36m304 [0m31.645 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.097 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.458 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.160 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.165 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m2.226 ms - -[0m
+[ { id: 27,
+    articleid: 55,
+    userid: null,
+    comment: 'Old Brother,Steadily!',
+    createdate: 1495177157118,
+    nickname: null } ]
+[0mGET /articles/blog/55 [32m200 [0m14.519 ms - 31939[0m
+[0mGET /css/materialize.css [36m304 [0m1.334 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.364 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.064 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.497 ms - -[0m
+[0mGET /login [32m200 [0m10.409 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m0.781 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.496 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.952 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.906 ms - -[0m
+[0mGET /register [32m200 [0m2.837 ms - 5444[0m
+[0mGET /css/materialize.css [36m304 [0m6.468 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m6.738 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.048 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.081 ms - -[0m
+[0mGET /login [36m304 [0m3.301 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.824 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.168 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.087 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.784 ms - -[0m
+[0mPOST /login [32m200 [0m2.405 ms - 6[0m
+[0mPOST /login [32m200 [0m1.844 ms - 6[0m
+[0mPOST /login [32m200 [0m2.647 ms - 7[0m
+[0mGET /index [32m200 [0m10.305 ms - 6044[0m
+[0mGET /css/materialize.css [36m304 [0m1.575 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.533 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.759 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.743 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.770 ms - -[0m
+[0mGET /articles/newblog [32m200 [0m5.019 ms - 4222[0m
+[0mGET /css/materialize.css [36m304 [0m1.339 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.368 ms - -[0m
+[0mGET /umeditor/themes/default/_css/umeditor.css [33m404 [0m2.112 ms - 837[0m
+[0mGET /js/materialize.js [36m304 [0m1.142 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.548 ms - -[0m
+[0mGET /ueditor/ueditor.config.js [36m304 [0m0.518 ms - -[0m
+[0mGET /ueditor/ueditor.all.min.js [36m304 [0m0.536 ms - -[0m
+[0mGET /ueditor/lang/zh-cn/zh-cn.js [36m304 [0m1.465 ms - -[0m
+[0mGET /ueditor/themes/default/css/ueditor.css [36m304 [0m1.485 ms - -[0m
+[0mGET /ueditor/ue?action=config&&noCache=1495178825942 [36m302 [0m0.852 ms - 49[0m
+[0mGET /ueditor/themes/default/images/icons.png [36m304 [0m1.397 ms - -[0m
+[0mGET /ueditor/themes/default/images/scale.png [36m304 [0m1.619 ms - -[0m
+[0mGET /ueditor/themes/iframe.css [36m304 [0m0.568 ms - -[0m
+[0mGET /ueditor/nodejs/config.json [36m304 [0m1.861 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.js [36m304 [0m1.335 ms - -[0m
+[0mGET /ueditor/third-party/codemirror/codemirror.css [36m304 [0m1.508 ms - -[0m
+[0mGET /articles/allblogs/user/6/page/1 [32m200 [0m4.995 ms - 2850[0m
+[0mGET /css/materialize.css [36m304 [0m2.668 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m5.186 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.762 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.818 ms - -[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m8.755 ms - 5607[0m
+[0mGET /css/materialize.css [36m304 [0m2.928 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.008 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.787 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.326 ms - -[0m
+[0mGET /articles/allblogs/user/6/page/1 [36m304 [0m5.110 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.535 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.522 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.547 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.595 ms - -[0m
+[0mGET /articles/allblogs/page/1 [36m304 [0m5.954 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.885 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.485 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.583 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.559 ms - -[0m
+[0mGET /articles/allblogs/user/6/page/1 [36m304 [0m3.619 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.921 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.919 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.524 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.506 ms - -[0m
+[0mGET /articles/allblogs/page/1 [36m304 [0m5.012 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m1.591 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.398 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.895 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.935 ms - -[0m
+[0mGET /articles/allblogs/page/1 [36m304 [0m9.834 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m3.868 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m3.944 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m2.171 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.218 ms - -[0m
+[0mGET /index [36m304 [0m6.233 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.922 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.645 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.371 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.410 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.489 ms - -[0m
+[0mGET /logoff [36m302 [0m1.021 ms - 56[0m
+[0mGET /index [32m200 [0m5.021 ms - 5706[0m
+[0mGET /css/materialize.css [36m304 [0m2.740 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.037 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.667 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m2.005 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.133 ms - -[0m
+[0mGET /articles/allblogs/page/1 [32m200 [0m4.923 ms - 5269[0m
+[0mGET /css/materialize.css [36m304 [0m1.532 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m2.180 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m1.498 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m1.615 ms - -[0m
+[0mGET /index [36m304 [0m5.766 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m0.841 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m0.850 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.523 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.485 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m0.480 ms - -[0m
+[0mGET /login [32m200 [0m5.030 ms - 4349[0m
+[0mGET /css/materialize.css [36m304 [0m1.623 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.399 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.499 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m0.488 ms - -[0m
+[0mGET /index [36m304 [0m7.546 ms - -[0m
+[0mGET /css/materialize.css [36m304 [0m2.350 ms - -[0m
+[0mGET /js/jquery.js [36m304 [0m1.936 ms - -[0m
+[0mGET /js/materialize.js [36m304 [0m0.917 ms - -[0m
+[0mGET /js/blog.js [36m304 [0m4.462 ms - -[0m
+[0mGET /images/ueditor/864380907719626752.jpg [36m304 [0m1.483 ms - -[0m

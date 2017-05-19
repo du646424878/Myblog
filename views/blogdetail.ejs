@@ -42,7 +42,7 @@ var modifydatestr = modifydate.toLocaleDateString()+" " +modifydate.toLocaleTime
                             </div>
                             <div>
                                 <p>
-                                    AUTHOR: <a href=<%="/articles/allblogs/user/" +user.id + "/page/1" %>  ><%= user.nickname %></a>
+                                    AUTHOR: <a href=<%="/articles/allblogs/user/" +user.id + "/page/1" %>><%= user.nickname %></a>
                                 </p>
                             </div>
                             <hr/>
@@ -66,7 +66,7 @@ var modifydatestr = modifydate.toLocaleDateString()+" " +modifydate.toLocaleTime
                                 <% } %>
                         </div>
                     </div>
-                    <div class="card hoverable">
+                     <div class="card hoverable">
                         <div class="card-content black-text">
                             <div class="card-title">
                                 添加评论
@@ -83,7 +83,8 @@ var modifydatestr = modifydate.toLocaleDateString()+" " +modifydate.toLocaleTime
                         <div class="card hoverable">
                             <div class="card-content black-text">
                                 <div>
-                                   <%= comment.nickname %></a> 说:
+				   <% if(comment.nickname == null) comment.nickname = "游客"%>
+                                   <%= comment.nickname %> 说:
                                 </div>
                                 <br>
                                 <div>

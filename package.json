@@ -15,7 +15,9 @@
     "helmet": "^2.1.0",
     "morgan": "~1.7.0",
     "multer": "^1.1.0",
+    "orm": "^3.2.3",
     "serve-favicon": "~2.3.0",
+    "sqlite3": "^3.1.8",
     "ueditor": "^1.1.4",
     "uploadify": "^1.0.7"
   }
