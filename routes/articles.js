@@ -101,6 +101,7 @@ router.all("/deleteblog/:blogid", function(req, res, next) {
     }).remove(function(err){
         if (err) throw err;
     });
+    res.send("success");
 });
 // 提交评论
 router.post("/comment/add/:blogid", function(req, res, next) {
