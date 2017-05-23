@@ -7,6 +7,29 @@ router.all("/newblog", function(req, res, next) {
         sessionuser : req.session.user
     });
 });
+//修改博客
+router.get("/editblog/:blogid",function(req,res,next){
+    req.models.articles.get(req.params.blogid,function(err,article_){
+              res.render("editblog",{
+                  article:article_,
+                  sessionuser:req.session.user
+                });
+    });
+});
+router.post("/alterblog/:blogid",function(req,res,next){
+    req.models.articles.find({id:req.params.blogid}, function (err,article) {
+        console.log(article);
+        article[0].title = req.body.title;
+        article[0].content = req.body.content;
+        article[0].modify_date =  Date.now();
+        article[0].save(function (err) {
+            // err.msg = "under-age";
+            if(!err)
+             res.send("success");
+        });
+    });
+
+});
 // 添加blog API
 router.post("/addblog", function(req, res, next) {
     req.models.articles.create({

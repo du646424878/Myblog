@@ -62,7 +62,7 @@ var modifydatestr = modifydate.toLocaleDateString()+" " +modifydate.toLocaleTime
                             </p>
                             <% if(sessionuser && sessionuser.id == article.userid) {%>
                                 <a href=<%='/articles/editblog/' +article.id %>>修改</a>
-                                <a href="" onclick="deleteblog(<%=article.id %>)">删除</a>
+                                <a href="#" onclick="deleteblog(<%=article.id %>)">删除</a>
                                 <% } %>
                         </div>
                     </div>

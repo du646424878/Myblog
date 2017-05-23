@@ -3,8 +3,9 @@ function deleteblog(id) {
     var url = "/articles/deleteblog/"+ id;
     $.post(url, {},
         function(data, status) {
-          location.href='/index';
-          Materialize.toast('删除博客成功',1000);
+        onclick = Materialize.toast('删除成功',1800, '', function() {
+                window.location = "/index";
+          });
         }
     );
     return false;
